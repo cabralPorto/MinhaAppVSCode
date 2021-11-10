@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fnxV+MkIH3akZURbJc1vlw7WpNjCS4Iv01czeav0cILzOCg96etUR5V+xIJ1sX3jqeqr5Yp2UoUkv1juMi1Mrg==",
+  "dgSpecHash": "QfkG9cvRaRNkPSv+Y4n5ygpB5Ly3L1aLvQxx2xR1xTy6k9iHWQlJDnI3BUu+uzetyk92yuZ54cxlqnHuZJ6j9g==",
   "success": true,
   "projectFilePath": "C:\\cursoC#\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cabra\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\cabra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\cabra\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

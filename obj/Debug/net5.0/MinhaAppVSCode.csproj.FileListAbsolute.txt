@@ -39,3 +39,4 @@ C:\cursoC#\MinhaAppVSCode\obj\Debug\net5.0\MinhaAppVSCode.pdb
 C:\cursoC#\MinhaAppVSCode\obj\Debug\net5.0\MinhaAppVSCode.genruntimeconfig.cache
 C:\cursoC#\MinhaAppVSCode\obj\Debug\net5.0\MinhaAppVSCode.csproj.CopyComplete
 C:\cursoC#\MinhaAppVSCode\bin\Debug\net5.0\appsettings.Staging.json
+C:\cursoC#\MinhaAppVSCode\bin\Debug\net5.0\AutoMapper.dll
