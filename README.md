@@ -16,6 +16,9 @@ Adcionar package "Pacotes":
 
 dotnet add package automappe
 
+### link do curso
+[Curso desenvolvedor.io]( www.desenvolvedor.io)
+
 
 
 
